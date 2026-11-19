@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:30363d&height=180&section=header&text=Muhamad%20Fachri%20Funandar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20AppSec%20and%20Vulnerability%20Triage&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+
+  <a href="https://github.com/Fachri-analys">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=while(alive)+%7B+hunt_vulns()%3B+%7D;Security+Researcher+%2B+AppSec+Engineer;Automating+CVE+Intelligence+%26+Triage;Building+resilient+software+tools" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -14,9 +18,23 @@
   </a>
 </p>
 
-<p align="center">
-  Fokus pada validasi kerentanan nyata, mitigasi berbasis ancaman aktif (<i>in-the-wild exploitation</i>), serta rekayasa perkakas audit otomatis.
-</p>
+```zsh
+➜  ~ whoami
+fachri-analys [security-researcher && fullstack-developer]
+
+➜  ~ cat ~/skills.json
+{
+  "runtime": ["Python", "TypeScript", "Node.js", "Bash", "SQL"],
+  "security": ["AppSec Auditing", "Vulnerability Research", "EPSS / CISA KEV Triage"],
+  "infrastructure": ["Linux", "Docker", "Git", "PostgreSQL"],
+  "philosophy": "Verify real-world exploitability, write clean tools, automate the rest."
+}
+
+➜  ~ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean (actively shipping code)
+```
 
 ---
 
