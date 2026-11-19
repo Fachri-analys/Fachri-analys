@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Focus-AppSec%20%26%20Vuln%20Triage-0D1117?style=flat-square&logo=target&logoColor=58A6FF" alt="Focus" />
   </a>
   <a href="https://github.com/Fachri-analys">
-    <img src="https://img.shields.io/badge/Editor-Neovim_%2B_VSCode-0D1117?style=flat-square&logo=neovim&logoColor=57A143" alt="Editor" />
+    <img src="https://img.shields.io/badge/Editor-VSCode_%2B_Neovim-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Editor" />
   </a>
   <a href="https://github.com/Fachri-analys">
-    <img src="https://img.shields.io/badge/Shell-Zsh_%2B_Tmux-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Shell" />
+    <img src="https://img.shields.io/badge/Terminal-Zsh_%2B_Tmux-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Terminal" />
   </a>
   <a href="https://cve.mitre.org/">
     <img src="https://img.shields.io/badge/Intel-EPSS%20%7C%20KEV%20%7C%20CVSS-0D1117?style=flat-square&logo=matrix&logoColor=F85149" alt="CVE Intel" />
@@ -22,18 +22,17 @@
 </p>
 
 ```bash
-╭─ ⚡ fachri@kernel [~]
-╰─$ neofetch --distro arch
-       /\         user: fachri-analys
-      /  \        role: Security Researcher && Coder
-     /\   \       os: Arch Linux x86_64
-    /      \      host: Security Research Station
-   /   ,,   \     kernel: 6.12-hardened
-  /   |  |  -\    shell: zsh 5.9 + tmux
- /_-''    ''-_\   editor: neovim (lua) + vscode
-                  runtime: Python 3.12, TypeScript, Node.js 22, Bash, SQL
-                  focus: EPSS/KEV Intel, In-the-wild Exploitation
-                  uptime: 24/7 (compiling, hunting & shipping code)
+╭─ ⚡ fachri@dev-box [~]
+╰─$ cat profile.json
+{
+  "user": "fachri-analys",
+  "name": "Muhamad Fachri Funandar",
+  "role": "Security Researcher && Coder",
+  "environment": ["Linux", "Docker", "Git", "VS Code"],
+  "runtime": ["Python", "TypeScript", "Node.js", "Bash", "SQL"],
+  "security_focus": ["Vulnerability Research", "EPSS / CISA KEV Triage", "AppSec Auditing"],
+  "mission": "Turning CVE chaos into verified remediation with clean code."
+}
 ```
 
 ---
