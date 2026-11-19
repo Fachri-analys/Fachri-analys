@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:30363d&height=180&section=header&text=Muhamad%20Fachri%20Funandar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20AppSec%20and%20Vulnerability%20Triage&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://github.com/Fachri-analys">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=while(alive)+%7B+code()%3B+hunt_vulns()%3B+%7D;Security+Researcher+%2B+Coder;Automating+CVE+Intelligence+%26+Triage;Writing+clean+and+resilient+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=while(alive)+%7B+code()%3B+hunt_vulns()%3B+%7D;Security+Researcher+%2B+Coder;Automating+CVE+Intelligence+%26+Triage;Writing+clean+and+resilient+code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,30 +10,30 @@
   <a href="https://github.com/Fachri-analys">
     <img src="https://img.shields.io/badge/Focus-AppSec%20%26%20Vuln%20Triage-0D1117?style=flat-square&logo=target&logoColor=58A6FF" alt="Focus" />
   </a>
-  <a href="https://github.com/Fachri-analys?tab=repositories">
-    <img src="https://img.shields.io/badge/Status-Active%20Research-0D1117?style=flat-square&logo=githubactions&logoColor=3FB950" alt="Status" />
+  <a href="https://github.com/Fachri-analys">
+    <img src="https://img.shields.io/badge/Editor-Neovim_%2B_VSCode-0D1117?style=flat-square&logo=neovim&logoColor=57A143" alt="Editor" />
+  </a>
+  <a href="https://github.com/Fachri-analys">
+    <img src="https://img.shields.io/badge/Shell-Zsh_%2B_Tmux-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Shell" />
   </a>
   <a href="https://cve.mitre.org/">
     <img src="https://img.shields.io/badge/Intel-EPSS%20%7C%20KEV%20%7C%20CVSS-0D1117?style=flat-square&logo=matrix&logoColor=F85149" alt="CVE Intel" />
   </a>
 </p>
 
-```zsh
-➜  ~ whoami
-fachri-analys [security-researcher && coder]
-
-➜  ~ cat ~/skills.json
-{
-  "runtime": ["Python", "TypeScript", "Node.js", "Bash", "SQL"],
-  "security": ["AppSec Auditing", "Vulnerability Research", "EPSS / CISA KEV Triage"],
-  "infrastructure": ["Linux", "Docker", "Git", "PostgreSQL"],
-  "philosophy": "Verify real-world exploitability, write clean code, automate the rest."
-}
-
-➜  ~ git status
-On branch master
-Your branch is up to date with 'origin/master'.
-nothing to commit, working tree clean (actively shipping code)
+```bash
+╭─ ⚡ fachri@kernel [~]
+╰─$ neofetch --distro arch
+       /\         user: fachri-analys
+      /  \        role: Security Researcher && Coder
+     /\   \       os: Arch Linux x86_64
+    /      \      host: Security Research Station
+   /   ,,   \     kernel: 6.12-hardened
+  /   |  |  -\    shell: zsh 5.9 + tmux
+ /_-''    ''-_\   editor: neovim (lua) + vscode
+                  runtime: Python 3.12, TypeScript, Node.js 22, Bash, SQL
+                  focus: EPSS/KEV Intel, In-the-wild Exploitation
+                  uptime: 24/7 (compiling, hunting & shipping code)
 ```
 
 ---
@@ -84,6 +84,8 @@ nothing to commit, working tree clean (actively shipping code)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fachri-analys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="150" alt="Stats Card" />
+  <img src="https://streak-stats.demolab.com/?user=Fachri-analys&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="150" alt="Streak Card" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fachri-analys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="150" alt="Top Languages" />
 </div>
 
