@@ -1,4 +1,4 @@
-# Fachri
+# Muhamad Fachri Funandar
 
 `Security Researcher` • `Vulnerability Research & Triage`
 
